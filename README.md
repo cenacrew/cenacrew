@@ -59,7 +59,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 ## 📞 Contact
 
-- contact@cenacrew.com
+- valetnina.sp@gmail.com
 - [linkedIn](https://www.linkedin.com/in/valentin-sourdois-pajot/)
 
 <br>
